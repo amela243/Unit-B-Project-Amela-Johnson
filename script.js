@@ -4,7 +4,7 @@ let buttons = document.querySelector(".buttons");
 let optionOne = document.querySelector(".option-one");
 let optionTwo = document.querySelector(".option-two");
 let optionTwoscreen = document.querySelector(".option-two-screen");
-let optionOnescreen = document.querySelector(".option-one-screen");
+let optionOnescreen = document.querySelector(".option-one-screen"); 
 let optionTwoend = document.querySelector(".option-two-end");
 let optionOneend = document.querySelector(".option-one-end");
 
